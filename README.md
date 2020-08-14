@@ -6,4 +6,4 @@ Data augmentation is a strategy that enables practitioners to significantly incr
 
 
 
-<img src="UKwFg.jpg" height="400" width="400"></img>
+<img src="UKwFg.jpg" height="1000" width="600" ></img>
